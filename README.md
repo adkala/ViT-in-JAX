@@ -5,6 +5,3 @@ Created an assignment teaching students how to implement a vision transformer (V
 The goal of the project was to create a homework assignment that can be used in future renditions of the class. This notebook contains the coding component of our homework assignment, which explained the intricacies of vision transformers to students. I wrote most of the code and explanations for our group. Linked below is the solution notebook, which contains a completed LeNet-5 and ViT implementation using JAX and Equinox, a library that brings PyTorch-like neural nets to JAX.
 
 The notebook linked is slightly modified from the original submission. It does not include the 'todo' questions contained in the original notebook.
-
-Technologies used: Python, JAX, Equinox
-
